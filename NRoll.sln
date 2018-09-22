@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRoll.Core", "NRoll.Core\NRoll.Core.csproj", "{332AAFD0-D9FC-43E9-A207-149E6BFACA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRoll.Test", "NRoll.Test\NRoll.Test.csproj", "{D74F49DB-8CDC-49B4-8FAE-8C4BC05B1940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRoll.Command", "NRoll.Command\NRoll.Command.csproj", "{46C7A578-BCBC-42C0-8761-7835222BE64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332AAFD0-D9FC-43E9-A207-149E6BFACA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332AAFD0-D9FC-43E9-A207-149E6BFACA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332AAFD0-D9FC-43E9-A207-149E6BFACA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332AAFD0-D9FC-43E9-A207-149E6BFACA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74F49DB-8CDC-49B4-8FAE-8C4BC05B1940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74F49DB-8CDC-49B4-8FAE-8C4BC05B1940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74F49DB-8CDC-49B4-8FAE-8C4BC05B1940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74F49DB-8CDC-49B4-8FAE-8C4BC05B1940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C7A578-BCBC-42C0-8761-7835222BE64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C7A578-BCBC-42C0-8761-7835222BE64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C7A578-BCBC-42C0-8761-7835222BE64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C7A578-BCBC-42C0-8761-7835222BE64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
